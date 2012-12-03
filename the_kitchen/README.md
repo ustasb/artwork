@@ -3,3 +3,5 @@
 Maya 2009, Mental Ray, ZBrush 3.5, PS CS4, UV Layout
 
 Based on my mother's kitchen in Johannesburg, South Africa.
+
+All assets were modeled and textured by myself.
