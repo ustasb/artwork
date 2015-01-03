@@ -22,11 +22,11 @@ The nostalgia!
 
 ![Mannequin](https://raw.githubusercontent.com/ustasb/renderings/master/2009/mannequin.jpg)
 
-### Shortfilm Concept
+### Short Film Concept
 
-![Shortfilm 1](https://raw.githubusercontent.com/ustasb/renderings/master/2009/shortfilm_1.jpg)
+![Short Film 1](https://raw.githubusercontent.com/ustasb/renderings/master/2009/shortfilm_1.jpg)
 
-![Shortfilm 2](https://raw.githubusercontent.com/ustasb/renderings/master/2009/shortfilm_2.jpg)
+![Short Film 2](https://raw.githubusercontent.com/ustasb/renderings/master/2009/shortfilm_2.jpg)
 
 ### Skull
 
