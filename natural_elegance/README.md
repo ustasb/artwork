@@ -1,4 +1,7 @@
-# Natural Elegance (2009)
+# Natural Elegance
+
+- Year created: 2009
+- Author: [Brian Ustas](http://brianustas.com)
 
 A dress I made out of leaves...
 
