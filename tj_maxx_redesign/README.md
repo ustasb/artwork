@@ -9,4 +9,4 @@ A "new look" for the [TJ Maxx](https://en.wikipedia.org/wiki/TJ_Maxx) store. For
 
 All assets were modeled and textured by myself.
 
-![TJ Maxx Final](https://raw.githubusercontent.com/ustasb/renderings/master/tj_maxx_redesign/tj_maxx_redesign_final.jpg)
+![TJ Maxx Final](https://raw.githubusercontent.com/ustasb/artwork/master/tj_maxx_redesign/tj_maxx_redesign_final.jpg)

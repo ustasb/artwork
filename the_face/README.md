@@ -11,8 +11,8 @@ All assets were modeled and textured by myself. It took me a year.
 
 ### The Face
 
-![The Face](https://raw.githubusercontent.com/ustasb/renderings/master/the_face/the_face.jpg)
+![The Face](https://raw.githubusercontent.com/ustasb/artwork/master/the_face/the_face.jpg)
 
 ### WIP Collage
 
-![WIP Collage](https://raw.githubusercontent.com/ustasb/renderings/master/the_face/wip_collage.jpg)
+![WIP Collage](https://raw.githubusercontent.com/ustasb/artwork/master/the_face/wip_collage.jpg)

@@ -5,4 +5,4 @@
 
 A dress I made out of leaves...
 
-![Natural Elegance 1](https://github.com/ustasb/renderings/blob/master/natural_elegance/natural_elegance_1.jpg)
+![Natural Elegance 1](https://github.com/ustasb/artwork/blob/master/natural_elegance/natural_elegance_1.jpg)
