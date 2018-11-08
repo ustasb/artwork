@@ -5,7 +5,7 @@
 
 Maya 2009, Mental Ray, ZBrush 4, PS CS4, UV Layout
 
-Loosely based on my father's face.
+Loosely based on my dad's face.
 
 All assets were modeled and textured by myself. It took me a year.
 
