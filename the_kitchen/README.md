@@ -3,9 +3,9 @@
 - Year created: 2010
 - Author: [Brian Ustas](http://brianustas.com)
 
-Maya 2009, Mental Ray, ZBrush 3.5, PS CS4, UV Layout
+Maya, Mental Ray, ZBrush, PhotoShop, UV Layout
 
-Based on my mother's kitchen in Johannesburg, South Africa.
+3D rendering of my family's kitchen in South Africa.
 
 All assets were modeled and textured by myself. It took me 2 years...
 
